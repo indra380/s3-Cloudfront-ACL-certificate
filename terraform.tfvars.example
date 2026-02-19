@@ -1,0 +1,7 @@
+aws_region   = "ap-south-1"
+bucket_name  = "indraportfolio1"
+project_name = "portfolio"
+environment  = "prod"
+
+domain_names          = ["indrakumar.online", "www.indrakumar.online"]
+custom_domain_enabled = false
