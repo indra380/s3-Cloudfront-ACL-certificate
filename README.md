@@ -1,6 +1,6 @@
-# Portfolio Infrastructure (Terraform)
+# Static Hosting (Terraform)
 
-This folder contains Terraform code to create portfolio hosting services on AWS.
+This folder contains Terraform code to create Static hosting services on AWS.
 
 ## Services Created
 - S3 bucket for static website files
